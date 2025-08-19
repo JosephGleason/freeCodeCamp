@@ -1,6 +1,6 @@
 #!/usr/bin/node
 
-let myVar = 87;
+const ourDecimal = 5.7;
 
 // Only change code below this line
-myVar++;
+const myDecimal = 5.3;
